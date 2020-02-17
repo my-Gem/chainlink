@@ -47,6 +47,10 @@ https://ropsten.explorer.chain.link/
 
 ![avatar](http://pminer.oss-cn-shenzhen.aliyuncs.com/news/chainlink_liuchengtu.jpg)
 
+http://pminer.oss-cn-shenzhen.aliyuncs.com/news/chainlink_liuchengtu.jpg
+
+
+
 ## chainlink教程
 
 ```
